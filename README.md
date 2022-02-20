@@ -1,4 +1,4 @@
-# -Real-Estate-Anticipating-Hotel-Check-ins-for-Maximum-Profits
+# Real Estate Anticipating Hotel Check ins for Maximum Profits
 
 It’s not easy running a hotel. You need a lot of manpower and it’s a constant tightrope of resource planning in order to maximize profits.
 
